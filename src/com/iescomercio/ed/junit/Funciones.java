@@ -1,8 +1,8 @@
-package ejerciciostema1;
+package com.iescomercio.ed.junit;
 
 import java.util.Scanner;
 
-public class T1Ej1 {
+public class Funciones {
 
 	/*
 	 * � Crea una funci�n llamada caracteristicaCaracter que dado un car�cter por
